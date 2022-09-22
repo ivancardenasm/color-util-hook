@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.5.5](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.4...v0.5.5) (2022-09-22)
+
+
+### Bug Fixes
+
+* delete idea folder ([9c65821](https://github.com/ivancardenasm/color-utils-hook/commit/9c65821c362863a575ec4ef0f2c98a85e778b609))
+
 ### [0.5.4](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.3...v0.5.4) (2022-09-22)
 
 ### [0.5.3](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.2...v0.5.3) (2022-09-22)
