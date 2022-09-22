@@ -1,0 +1,36 @@
+{
+  "name": "color-utils-hook",
+  "version": "0.5.1",
+  "description": "A react hook that provides useful methods for color management.",
+  "main": "dist/color-utils-hook.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --minify --sourcemap --target=chrome58,firefox57,safari11,edge16 --outfile=dist/color-utils-hook.js",
+    "test": "node test",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivancardenasm/color-utils-hook.git"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "hook",
+    "react",
+    "hls",
+    "hex"
+  ],
+  "author": "Iván Cárdenas Meneses",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivancardenasm/color-utils-hook/issues"
+  },
+  "homepage": "https://github.com/ivancardenasm/color-utils-hook#readme",
+  "devDependencies": {
+    "esbuild": "0.15.8",
+    "standard-version": "^9.5.0"
+  }
+}
