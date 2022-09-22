@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.5.6](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.5...v0.5.6) (2022-09-22)
+
+
+### Features
+
+* add build ([02873b2](https://github.com/ivancardenasm/color-utils-hook/commit/02873b21b99d23ecef39613205577d0a8648dd82))
+
 ### [0.5.5](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.4...v0.5.5) (2022-09-22)
 
 
