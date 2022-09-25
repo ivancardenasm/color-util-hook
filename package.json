@@ -1,6 +1,6 @@
 {
   "name": "color-utils-hook",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "A react hook that provides useful methods for color management.",
   "main": "dist/color-utils-hook.js",
   "directories": {

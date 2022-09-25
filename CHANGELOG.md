@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.5.8](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.7...v0.5.8) (2022-09-25)
+
+
+### Features
+
+* add hsltohex and color list method ([3d64ac1](https://github.com/ivancardenasm/color-utils-hook/commit/3d64ac1e24da7c63e0dff071b79469449148af79))
+
 ### [0.5.7](https://github.com/ivancardenasm/color-utils-hook/compare/v0.5.5...v0.5.7) (2022-09-22)
 
 
