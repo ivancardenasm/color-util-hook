@@ -7,7 +7,7 @@
     "example": "example"
   },
   "scripts": {
-    "build": "esbuild src/index.js --bundle --minify --sourcemap --target=chrome58,firefox57,safari11,edge16 --outfile=dist/color-utils-hook.js",
+    "build": "esbuild src/index.js --bundle --minify --sourcemap --outfile=dist/color-utils-hook.js",
     "test": "node test",
     "release": "standard-version",
     "release:full": "npm run release && git push --follow-tags origin master && npm publish"

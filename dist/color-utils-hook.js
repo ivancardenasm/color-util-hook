@@ -1,2 +1,2 @@
-(()=>{var o=()=>({getColorList:()=>[],hlsToHexColor:()=>""}),r=o;})();
+(()=>{var i=()=>({getHexColorList:({n:o,saturation:e=60,lightness:t=75})=>{let r=360/o;return Array.from({length:o},(s,n)=>(void 0).hslToHex(r+r*n,e,t))},hslToHex:(o,e,t)=>{t/=100;let r=e*Math.min(t,1-t)/100,s=n=>{let a=(n+o/30)%12,c=t-r*Math.max(Math.min(a-3,9-a,1),-1);return Math.round(255*c).toString(16).padStart(2,"0")};return`#${s(0)}${s(8)}${s(4)}`}}),l=i;})();
 //# sourceMappingURL=color-utils-hook.js.map
